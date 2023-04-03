@@ -1,5 +1,5 @@
 
-import { defuFn } from 'C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

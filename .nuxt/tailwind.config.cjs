@@ -6684,16 +6684,16 @@ module.exports = {
   "content": {
     "relative": false,
     "files": [
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/components/**/*.{vue,js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/layouts/**/*.vue",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/pages/**/*.vue",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/composables/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/plugins/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/utils/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/App.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/app.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/Error.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/error.{js,ts,vue}"
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/components/**/*.{vue,js,ts}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/layouts/**/*.vue",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/pages/**/*.vue",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/composables/**/*.{js,ts}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/plugins/**/*.{js,ts}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/utils/**/*.{js,ts}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/App.{js,ts,vue}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/app.{js,ts,vue}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/Error.{js,ts,vue}",
+      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/error.{js,ts,vue}"
     ],
     "extract": {},
     "transform": {}

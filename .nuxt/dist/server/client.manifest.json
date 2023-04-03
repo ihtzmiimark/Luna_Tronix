@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt-tailwind-static-template/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/nuxt/dist/app/entry.js"
   }
 }
