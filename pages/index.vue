@@ -1,9 +1,16 @@
-<script setup>
-</script>
+<script setup></script>
 
 <template>
-  <div>👋 LunaTronix</div>
+  <div>
+    <Header />
+    <AboutUs class="z-0" />
+    <OurService />
+    <!---<WhyLunatronix />-->
+    <Plan />
+    <Faq />
+    <SentUs />
+    <Footer />
+  </div>
 </template>
 
-<style lang="postcss" scoped>
-</style>
+<style lang="postcss" scoped></style>

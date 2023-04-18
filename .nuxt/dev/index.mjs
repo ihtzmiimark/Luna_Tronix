@@ -1,24 +1,24 @@
-globalThis._importMeta_={url:import.meta.url,env:process.env};import 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/node-fetch-native/dist/polyfill.mjs';
+globalThis._importMeta_={url:import.meta.url,env:process.env};import 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/node-fetch-native/dist/polyfill.mjs';
 import { Server } from 'node:http';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { mkdirSync } from 'node:fs';
 import { parentPort, threadId } from 'node:worker_threads';
-import { provider, isWindows } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/std-env/dist/index.mjs';
-import { defineEventHandler, handleCacheHeaders, createEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, setResponseStatus, getRequestHeader, setResponseHeader, getRequestHeaders, createApp, createRouter as createRouter$1, toNodeListener, fetchWithEvent, lazyEventHandler, getQuery, createError } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/h3/dist/index.mjs';
-import { createRenderer } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/vue-bundle-renderer/dist/runtime.mjs';
-import devalue from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/@nuxt/devalue/dist/devalue.mjs';
-import { createFetch as createFetch$1, Headers } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/ofetch/dist/node.mjs';
-import destr from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/destr/dist/index.mjs';
-import { createCall, createFetch } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/unenv/runtime/fetch/index.mjs';
-import { createHooks } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/hookable/dist/index.mjs';
-import { snakeCase } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/scule/dist/index.mjs';
-import defu, { defuFn } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/defu/dist/defu.mjs';
-import { hash } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/ohash/dist/index.mjs';
-import { parseURL, withoutBase, joinURL, withQuery } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/ufo/dist/index.mjs';
-import { createStorage, prefixStorage } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/unstorage/dist/index.mjs';
-import unstorage_47drivers_47fs from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/unstorage/drivers/fs.mjs';
-import { toRouteMatcher, createRouter } from 'file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/node_modules/radix3/dist/index.mjs';
+import { provider, isWindows } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/std-env/dist/index.mjs';
+import { defineEventHandler, handleCacheHeaders, createEvent, eventHandler, setHeaders, sendRedirect, proxyRequest, setResponseStatus, getRequestHeader, setResponseHeader, getRequestHeaders, createApp, createRouter as createRouter$1, toNodeListener, fetchWithEvent, lazyEventHandler, getQuery, createError } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/h3/dist/index.mjs';
+import { createRenderer } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/vue-bundle-renderer/dist/runtime.mjs';
+import devalue from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/@nuxt/devalue/dist/devalue.mjs';
+import { createFetch as createFetch$1, Headers } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/ofetch/dist/node.mjs';
+import destr from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/destr/dist/index.mjs';
+import { createCall, createFetch } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/unenv/runtime/fetch/index.mjs';
+import { createHooks } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/hookable/dist/index.mjs';
+import { snakeCase } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/scule/dist/index.mjs';
+import defu, { defuFn } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/defu/dist/defu.mjs';
+import { hash } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/ohash/dist/index.mjs';
+import { parseURL, withoutBase, joinURL, withQuery } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/ufo/dist/index.mjs';
+import { createStorage, prefixStorage } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/unstorage/dist/index.mjs';
+import unstorage_47drivers_47fs from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/unstorage/drivers/fs.mjs';
+import { toRouteMatcher, createRouter } from 'file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/node_modules/radix3/dist/index.mjs';
 
 const inlineAppConfig = {};
 
@@ -67,7 +67,7 @@ function deepFreeze(object) {
   return Object.freeze(object);
 }
 
-const serverAssets = [{"baseName":"server","dir":"C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/server/assets"}];
+const serverAssets = [{"baseName":"server","dir":"C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/server/assets"}];
 
 const assets = createStorage();
 
@@ -79,10 +79,10 @@ const storage = createStorage({});
 
 storage.mount('/assets', assets);
 
-storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\tagur\\OneDrive\\Documents\\LunaTronix\\nuxt3-tailwindcss-LunaTronix","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\tagur\\OneDrive\\Documents\\LunaTronix\\nuxt3-tailwindcss-LunaTronix\\server","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\tagur\\OneDrive\\Documents\\LunaTronix\\nuxt3-tailwindcss-LunaTronix\\.nuxt","ignore":["**/node_modules/**","**/.git/**"]}));
-storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\tagur\\OneDrive\\Documents\\LunaTronix\\nuxt3-tailwindcss-LunaTronix\\.nuxt\\cache","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('root', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\User\\Desktop\\LunaTronix_\\Luna_Tronix","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('src', unstorage_47drivers_47fs({"driver":"fs","readOnly":true,"base":"C:\\Users\\User\\Desktop\\LunaTronix_\\Luna_Tronix\\server","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('build', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\User\\Desktop\\LunaTronix_\\Luna_Tronix\\.nuxt","ignore":["**/node_modules/**","**/.git/**"]}));
+storage.mount('cache', unstorage_47drivers_47fs({"driver":"fs","readOnly":false,"base":"C:\\Users\\User\\Desktop\\LunaTronix_\\Luna_Tronix\\.nuxt\\cache","ignore":["**/node_modules/**","**/.git/**"]}));
 
 function useStorage(base = "") {
   return base ? prefixStorage(storage, base) : storage;
@@ -486,11 +486,11 @@ const errorHandler = (async function errorhandler(error, event) {
   event.node.res.end(await res.text());
 });
 
-const _lazy_q3THE2 = () => Promise.resolve().then(function () { return renderer$1; });
+const _lazy_OWwXxI = () => Promise.resolve().then(function () { return renderer$1; });
 
 const handlers = [
-  { route: '/__nuxt_error', handler: _lazy_q3THE2, lazy: true, middleware: false, method: undefined },
-  { route: '/**', handler: _lazy_q3THE2, lazy: true, middleware: false, method: undefined }
+  { route: '/__nuxt_error', handler: _lazy_OWwXxI, lazy: true, middleware: false, method: undefined },
+  { route: '/**', handler: _lazy_OWwXxI, lazy: true, middleware: false, method: undefined }
 ];
 
 function createNitroApp() {
@@ -630,7 +630,7 @@ function publicAssetsURL(...path) {
 
 globalThis.__buildAssetsURL = buildAssetsURL;
 globalThis.__publicAssetsURL = publicAssetsURL;
-const getClientManifest = () => import('file://C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/.nuxt/dist/server/client.manifest.mjs').then((r) => r.default || r).then((r) => typeof r === "function" ? r() : r);
+const getClientManifest = () => import('file://C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/.nuxt/dist/server/client.manifest.mjs').then((r) => r.default || r).then((r) => typeof r === "function" ? r() : r);
 const getStaticRenderedHead = () => Promise.resolve().then(function () { return _virtual__headStatic$1; }).then((r) => r.default || r);
 const getSPARenderer = lazyCachedFunction(async () => {
   const manifest = await getClientManifest();
@@ -645,13 +645,14 @@ const getSPARenderer = lazyCachedFunction(async () => {
   const renderToString = (ssrContext) => {
     const config = useRuntimeConfig();
     ssrContext.payload = {
+      _errors: {},
       serverRendered: false,
-      config: {
-        public: config.public,
-        app: config.app
-      },
       data: {},
       state: {}
+    };
+    ssrContext.config = {
+      public: config.public,
+      app: config.app
     };
     ssrContext.renderMeta = ssrContext.renderMeta ?? getStaticRenderedHead;
     return Promise.resolve(result);
@@ -678,7 +679,7 @@ const renderer = defineRenderHandler(async (event) => {
     url = url.substring(0, url.lastIndexOf("/")) || "/";
     event.node.req.url = url;
   }
-  getRouteRules(event);
+  const routeOptions = getRouteRules(event);
   const ssrContext = {
     url,
     event,
@@ -688,6 +689,7 @@ const renderer = defineRenderHandler(async (event) => {
     nuxt: void 0,
     /* NuxtApp */
     payload: ssrError ? { error: ssrError } : {},
+    _payloadReducers: {},
     islandContext
   };
   const renderer = await getSPARenderer() ;
@@ -695,6 +697,9 @@ const renderer = defineRenderHandler(async (event) => {
     throw !ssrError && ssrContext.payload?.error || error;
   });
   await ssrContext.nuxt?.hooks.callHook("app:rendered", { ssrContext });
+  if (event.node.res.headersSent || event.node.res.writableEnded) {
+    return;
+  }
   if (ssrContext.payload?.error && !ssrError) {
     throw ssrContext.payload.error;
   }
@@ -704,13 +709,14 @@ const renderer = defineRenderHandler(async (event) => {
   }
   const renderedMeta = await ssrContext.renderMeta?.() ?? {};
   const inlinedStyles = "";
+  const NO_SCRIPTS = routeOptions.experimentalNoScripts;
   const htmlContext = {
     island: Boolean(islandContext),
     htmlAttrs: normalizeChunks([renderedMeta.htmlAttrs]),
     head: normalizeChunks([
       renderedMeta.headTags,
       null,
-      _rendered.renderResourceHints(),
+      NO_SCRIPTS ? null : _rendered.renderResourceHints(),
       _rendered.renderStyles(),
       inlinedStyles,
       ssrContext.styles
@@ -722,8 +728,8 @@ const renderer = defineRenderHandler(async (event) => {
     ]),
     body: [_rendered.html],
     bodyAppend: normalizeChunks([
-      `<script>window.__NUXT__=${devalue(ssrContext.payload)}<\/script>`,
-      _rendered.renderScripts(),
+      NO_SCRIPTS ? void 0 : renderPayloadScript({ ssrContext, data: ssrContext.payload }),
+      routeOptions.experimentalNoScripts ? void 0 : _rendered.renderScripts(),
       // Note: bodyScripts may contain tags other than <script>
       renderedMeta.bodyScripts
     ])
@@ -774,10 +780,14 @@ function renderPayloadResponse(ssrContext) {
     statusCode: ssrContext.event.node.res.statusCode,
     statusMessage: ssrContext.event.node.res.statusMessage,
     headers: {
-      "content-type": "text/javascript;charset=UTF-8",
+      "content-type": "text/javascript;charset=utf-8",
       "x-powered-by": "Nuxt"
     }
   };
+}
+function renderPayloadScript(opts) {
+  opts.data.config = opts.ssrContext.config;
+  return `<script>window.__NUXT__=${devalue(opts.data)}<\/script>`;
 }
 function splitPayload(ssrContext) {
   const { data, prerenderedAt, ...initial } = ssrContext.payload;

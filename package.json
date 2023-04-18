@@ -13,7 +13,7 @@
     "@nuxtjs/tailwindcss": "latest",
     "@pinia/nuxt": "latest",
     "@vueuse/core": "latest",
-    "nuxt": "latest",
+    "nuxt": "^3.4.1",
     "pinia": "latest"
   }
 }

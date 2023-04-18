@@ -6684,16 +6684,16 @@ module.exports = {
   "content": {
     "relative": false,
     "files": [
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/components/**/*.{vue,js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/layouts/**/*.vue",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/pages/**/*.vue",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/composables/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/plugins/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/utils/**/*.{js,ts}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/App.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/app.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/Error.{js,ts,vue}",
-      "C:/Users/tagur/OneDrive/Documents/LunaTronix/nuxt3-tailwindcss-LunaTronix/error.{js,ts,vue}"
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/components/**/*.{vue,js,ts}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/layouts/**/*.vue",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/pages/**/*.vue",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/composables/**/*.{js,ts}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/plugins/**/*.{js,ts}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/utils/**/*.{js,ts}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/App.{js,ts,vue}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/app.{js,ts,vue}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/Error.{js,ts,vue}",
+      "C:/Users/User/Desktop/LunaTronix_/Luna_Tronix/error.{js,ts,vue}"
     ],
     "extract": {},
     "transform": {}
